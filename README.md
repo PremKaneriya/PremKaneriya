@@ -12,3 +12,5 @@ I'm Prem Kaneriya a Heated Full-Stack Developer based in India.
 
 <a href="" target="blank"  ><i class="fa-brands fa-reddit-alien" style="color: #ff7300;"></i></a>
 
+<a href="" target="blank"  ><i class="fa-brands fa-instagram" style="color: #ff00c8;"></i></i></a>
+
