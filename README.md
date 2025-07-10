@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Prem Kaneriya a Heated Full-Stack Developer based in India.
+I'm Prem Kaneriya a Backend Developer based in India.
 
 📫 Reach me : premkaneriya@hotmail.com
 
